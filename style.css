@@ -10,6 +10,16 @@ div.title {
     width: 100vw;
     margin: 0px;
 }
+div.bugs {
+    background-color: rgb(184, 180, 180);
+    padding-top: 1%;
+    padding-bottom: 3%;
+    border: rgb(184, 180, 180);
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
 h1.Goat {
     color:#efefef;
 }
@@ -29,22 +39,12 @@ img.photo_bugs{
 p.bugs_description {
     padding-top: 3%;
 }
-div.bugs {
-    background-color: rgb(184, 180, 180);
-    padding-top: 1%;
-    padding-bottom: 3%;
-    border: rgb(184, 180, 180);
-    border-radius: 30px;
-    margin-left: 10px;
-    margin-right: 10px;
-    
-}
 h3.Why {
     text-align: justify;
     margin: 0%;
     padding-bottom: .5%;
 }
-img.history_photo {
+img.royal_bugs {
     height: 150px;
     width: 200px;
     float: right;
@@ -58,6 +58,33 @@ p.history_description {
     padding-left: 14px;
 }
 div.Why_the_Goat {
+    background-color: rgb(184, 180, 180);
+    padding-top: 1%;
+    padding-bottom: 3%;
+    border: rgb(184, 180, 180);
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h3.History_title {
+    text-align: justify;
+    margin: 0%;
+    padding-bottom: .5%;
+}
+img.evo_bugs {
+    height: 150px;
+    width: 200px;
+    float: left;
+    padding-left: 2px;
+    padding-right: 1%;
+    border-radius: 30px;
+    
+}
+p.history_description {
+    padding-top: 3%;
+    padding-left: 14px;
+}
+div.History {
     background-color: rgb(184, 180, 180);
     padding-top: 1%;
     padding-bottom: 3%;
